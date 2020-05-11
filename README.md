@@ -25,14 +25,25 @@
 * [Wherefore art thou]
 * [Spinal Tap CasePassed]
 * [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+* [Pig Latin]
+
   
 ## Sum All Numbers in a RangePassed
  We'll pass you an array of two numbers. Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.
 
 - Solution: 
-- function sumAll(arr) {
--   return 1;
-- }
+ function sumAll(arr) {
+  return 1;
+ }
 
 
 
