@@ -26,13 +26,13 @@
 * [Spinal Tap CasePassed]
 * [Pig Latin]
   
-#### Sum All Numbers in a RangePassed
-Exercice: We'll pass you an array of two numbers. Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.
+## Sum All Numbers in a RangePassed
+ We'll pass you an array of two numbers. Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.
 
-Solution: 
-function sumAll(arr) {
-  return 1;
-}
+- Solution: 
+- function sumAll(arr) {
+-   return 1;
+- }
 
 
 
