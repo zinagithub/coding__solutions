@@ -19,13 +19,20 @@
 ## Freecodecamp
 
 ### Intermediate Algorithm Scripting
-* [Sum All Numbers in a RangePassed]
+* [Sum All Numbers in a RangePassed](#sum_all)
 * [Diff Two ArraysPassed]
 * [Seek and DestroyPassed]
 * [Wherefore art thou]
 * [Spinal Tap CasePassed]
 * [Pig Latin]
   
-  
+#### Sum All Numbers in a RangePassed
+Exercice: We'll pass you an array of two numbers. Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.
+
+Solution: 
+function sumAll(arr) {
+  return 1;
+}
+
 
 
