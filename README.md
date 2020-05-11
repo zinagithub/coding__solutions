@@ -21,7 +21,7 @@
 ### Intermediate Algorithm Scripting
 * [Sum All Numbers in a Range](#Sum-All-Numbers-in-a-Range)
 * [Diff Two Arrays](#Diff-Two-Arrays)
-* [Seek and Destroy](#Seek and Destroy)
+* [Seek and Destroy](#Seek-and-Destroy)
 * [Wherefore art thou]
 * [Spinal Tap CasePassed]
 * [Pig Latin]
