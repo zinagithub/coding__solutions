@@ -5,7 +5,7 @@
 ### Table of Contents
 
 - [Freecodecamp](#Freecodecamp)
-  - [Intermediate Algorithm Scripting](#Intermediate_Algorithm_Scripting]
+  - [Intermediate Algorithm Scripting](#Intermediate_Algorithm_Scripting)
   - [ex2](#free_ex2)
   - [ex3](#free_ex3)
   - [ex4](#free_ex4)
