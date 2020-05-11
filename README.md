@@ -4,8 +4,8 @@
 
 ### Table of Contents
 
-- [Freecodecamp](#freecodecamp)
-  - [Intermediate Algorithm Scripting](#intermediate_algo)
+- [Freecodecamp](#Freecodecamp)
+  - [Intermediate Algorithm Scripting](#Intermediate Algorithm Scripting)
   - [ex2](#free_ex2)
   - [ex3](#free_ex3)
   - [ex4](#free_ex4)
@@ -16,7 +16,7 @@
   - [ex3](#haker_ex3)
   - [ex3](#hakr_ex4)
   
-## freecodecamp
+## Freecodecamp
 
 ### Intermediate Algorithm Scripting
 * [Sum All Numbers in a RangePassed]
