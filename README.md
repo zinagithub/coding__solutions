@@ -19,7 +19,7 @@
 ## Freecodecamp
 
 ### Intermediate Algorithm Scripting
-* [Sum All Numbers in a RangePassed](#sum_all)
+* [Sum All Numbers in a RangePassed](#Sum-All-Numbers-in-a-RangePassed)
 * [Diff Two ArraysPassed]
 * [Seek and DestroyPassed]
 * [Wherefore art thou]
