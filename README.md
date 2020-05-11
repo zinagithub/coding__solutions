@@ -18,7 +18,7 @@
   
 ## freecodecamp
 
-### intermediate_algo
+### Intermediate Algorithm Scripting
 * [Sum All Numbers in a RangePassed]
 * [Diff Two ArraysPassed]
 * [Seek and DestroyPassed]
