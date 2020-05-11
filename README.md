@@ -5,16 +5,27 @@
 ### Table of Contents
 
 - [Freecodecamp](#freecodecamp)
-  - [ex1](#ex1)
-  - [ex2](#ex2)
-  - [ex3](#ex3)
-  - [ex4](#ex4)
+  - [Intermediate Algorithm Scripting](#intermediate_algo)
+  - [ex2](#free_ex2)
+  - [ex3](#free_ex3)
+  - [ex4](#free_ex4)
   
 - [hakerrank](#hakerrank)
   - [ex1](#haker_ex1)
-  - [ex2](#ex2)
-  - [ex3](#ex3)
-  - [ex3](#ex4)
+  - [ex2](#haker_ex2)
+  - [ex3](#haker_ex3)
+  - [ex3](#hakr_ex4)
+  
+## freecodecamp
+
+### #intermediate_algo
+* [Sum All Numbers in a RangePassed]
+* [Diff Two ArraysPassed]
+* [Seek and DestroyPassed]
+* [Wherefore art thou]
+* [Spinal Tap CasePassed]
+* [Pig Latin]
+  
   
 
 
