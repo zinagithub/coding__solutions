@@ -18,7 +18,7 @@
   
 ## freecodecamp
 
-### #intermediate_algo
+### intermediate_algo
 * [Sum All Numbers in a RangePassed]
 * [Diff Two ArraysPassed]
 * [Seek and DestroyPassed]
