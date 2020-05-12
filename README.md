@@ -18,7 +18,7 @@
   
 ## Freecodecamp
 
-### [Javascript Intermediate Algorithm Scripting
+### Javascript Intermediate Algorithm Scripting
 * [Sum All Numbers in a Range](#Sum-All-Numbers-in-a-Range)
 * [Diff Two Arrays](#Diff-Two-Arrays)
 * [Seek and Destroy](#Seek-and-Destroy)
