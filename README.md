@@ -7,6 +7,7 @@
 - [Freecodecamp](#Freecodecamp)
 
   -[Javascript](#Javascript)
+  
       - [Intermediate Algorithm Scripting](#Intermediate-Algorithm-Scripting)
       - [ex2](#free_ex2)
       - [ex3](#free_ex3)
