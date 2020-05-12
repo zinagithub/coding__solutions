@@ -10,8 +10,8 @@
   - [ex3](#free_ex3)
   - [ex4](#free_ex4)
   
-- [hakerrank](#hakerrank)
-  - [ex1](#haker_ex1)
+- [Hackerrank](#Hackerrank)
+  - [Making Anagrams](#Making-Anagrams)
   - [ex2](#haker_ex2)
   - [ex3](#haker_ex3)
   - [ex3](#hakr_ex4)
@@ -93,3 +93,41 @@ diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 ```
 ### Seek and Destroy
 
+## Hackerrank
+
+### Making Anagrams(https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+```
+solution:
+function makeAnagram(a, b) {
+    var arrA = a.split('');
+    var arrB = b.split('');
+    var diff = [];
+    var same = [];
+    arrA.concat(arrB).map(function(val){
+        if (!arrA.includes(val) || !arrB.includes(val))
+           diff.push(val);
+        else
+           if (!same.includes(val))
+              same.push(val);  
+    });
+
+    var freq= same.reduce(function(acc,val){
+            var freq1 = 0;
+            var freq2 = 0;
+            for (var i = 0;i < arrA.length;i++){
+                if (arrA[i] == val)
+                   freq1++;
+            }
+            for (var j = 0;j < arrB.length;j++){
+                if (arrB[j] == val)
+                   freq2++;
+            }
+            acc = acc + (Math.max(freq1,freq2) - Math.min(freq1,freq2)); 
+            return acc;
+    },0);                                           
+                                               
+    return freq+diff.length
+}
+
+
+```
