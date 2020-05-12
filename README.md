@@ -1,15 +1,16 @@
 # Coding Solutions
 
-> My own coding solutions to different coding challenges.
+> With the aim to facilitate the revision of the data structures challenges and algorithms, I gathered all the solutions that I proposed to the challenges on different platforms in this README file. 
 
 ### Table of Contents
 
 - [Freecodecamp](#Freecodecamp)
-  - [Intermediate Algorithm Scripting](#Intermediate-Algorithm-Scripting)
-  - [ex2](#free_ex2)
-  - [ex3](#free_ex3)
-  - [ex4](#free_ex4)
-  
+  -[Javascript](#Javascript)
+      - [Intermediate Algorithm Scripting](#Intermediate-Algorithm-Scripting)
+      - [ex2](#free_ex2)
+      - [ex3](#free_ex3)
+      - [ex4](#free_ex4)
+
 - [Hackerrank](#Hackerrank)
   - [Making Anagrams](#Making-Anagrams)
   - [ex2](#haker_ex2)
@@ -17,6 +18,8 @@
   - [ex3](#hakr_ex4)
   
 ## Freecodecamp
+
+## Javascript
 
 ### Intermediate Algorithm Scripting
 * [Sum All Numbers in a Range](#Sum-All-Numbers-in-a-Range)
