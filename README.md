@@ -5,13 +5,10 @@
 ### Table of Contents
 
 - [Freecodecamp](#Freecodecamp)
-
-  -[Javascript](#Javascript)
-  
-      - [Intermediate Algorithm Scripting](#Intermediate-Algorithm-Scripting)
-      - [ex2](#free_ex2)
-      - [ex3](#free_ex3)
-      - [ex4](#free_ex4)
+    - [Javascript Intermediate Algorithm Scripting](#[Javascript-Intermediate-Algorithm-Scripting)
+    - [ex2](#free_ex2)
+    - [ex3](#free_ex3)
+    - [ex4](#free_ex4)
 
 - [Hackerrank](#Hackerrank)
   - [Making Anagrams](#Making-Anagrams)
@@ -21,9 +18,7 @@
   
 ## Freecodecamp
 
-## Javascript
-
-### Intermediate Algorithm Scripting
+### [Javascript Intermediate Algorithm Scripting
 * [Sum All Numbers in a Range](#Sum-All-Numbers-in-a-Range)
 * [Diff Two Arrays](#Diff-Two-Arrays)
 * [Seek and Destroy](#Seek-and-Destroy)
