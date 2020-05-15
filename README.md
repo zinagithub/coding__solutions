@@ -106,7 +106,8 @@ diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 ### Seek and Destroy
 You will be provided with an initial array (the first argument in the destroyer function), followed by one or more arguments. Remove all elements from the initial array that are of the same value as these arguments.
 
-Hints: In javascript, all arguments of the function are placed in a array called arguments.
+Hint1: In javascript, all arguments of the function are placed in a array called arguments.
+Hint2: When you delete an array element, the array length is not affected, thus, we should filter the Booleans values.
 
 ```
 solution:
