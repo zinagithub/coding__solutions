@@ -4,6 +4,11 @@
 
 ### Table of Contents
 
+-[Javascript](#Javascript)
+-[Ruby](#Ruby]
+
+##Javascript
+
 - [Freecodecamp](#Freecodecamp)
     - [Javascript Intermediate Algorithm Scripting](#Javascript-Intermediate-Algorithm-Scripting)
     - [Javascript Algorithms And Data Structure Projects](#free_ex2)
