@@ -40,7 +40,7 @@
 * [Diff Two Arrays](#Diff-Two-Arrays)
 * [Seek and Destroy](#Seek-and-Destroy)
 * [Wherefore art thou](#Wherefore-art-thou)
-* [Spinal Tap CasePassed]
+* [Spinal Tap Case](#Spinal-Tap-Case)
 * [Pig Latin]
 * [Pig Latin]
 * [Pig Latin]
@@ -151,6 +151,8 @@ solution:
 
 whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: null }, { first: "Tybalt", last: "Capulet" }], { last: "Capulet" });
 ```
+
+### Spinal Tap Case
 
 ## Hackerrank
 
