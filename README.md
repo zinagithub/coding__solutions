@@ -5,9 +5,9 @@
 ### Table of Contents
 
 -[Javascript](#Javascript)
--[Ruby](#Ruby]
+-[Ruby](#Ruby)
 
-##Javascript
+## Javascript
 
 - [Freecodecamp](#Freecodecamp)
     - [Javascript Intermediate Algorithm Scripting](#Javascript-Intermediate-Algorithm-Scripting)
