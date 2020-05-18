@@ -4,8 +4,8 @@
 
 ### Table of Contents
 
--[Javascript](#Javascript)
--[Ruby](#Ruby)
+   - [Javascript](#Javascript)
+   - [Ruby](#Ruby)
 
 ## Javascript
 
