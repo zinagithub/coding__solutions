@@ -11,7 +11,7 @@
 
 - [Freecodecamp](#Freecodecamp)
     - [Javascript Intermediate Algorithm Scripting](#Javascript-Intermediate-Algorithm-Scripting)
-    - [Javascript Algorithms And Data Structure Projects](#free_ex2)
+    - [Javascript Algorithms And Data Structure Projects](#Javascript-Algorithms-And-Data-Structure-Projects)
     - [ex3](#free_ex3)
     - [ex4](#free_ex4)
 
@@ -191,5 +191,29 @@ function makeAnagram(a, b) {
     return freq+diff.length
 }
 
+
+```
+### Javascript Algorithms And Data Structure Projects
+* [Palindrome Checker](#Palindrome-Checker)
+
+### Palindrome Checker
+Return true if the given string is a palindrome. Otherwise, return false.
+
+A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
+
+### Note
+You'll need to remove all non-alphanumeric characters (punctuation, spaces and symbols) and turn everything into the same case (lower or upper case) in order to check for palindromes.
+
+```
+solution1: 
+function palindrome(str) {
+  var str1 = str.toLowerCase().split("").filter(elm => !elm.match(/[\W_]/g)).join("");
+  var str2 =str1.split("").reverse().join(""); 
+  if (str1===str2)
+      return true
+  return false         
+}
+
+palindrome("nope");
 
 ```
